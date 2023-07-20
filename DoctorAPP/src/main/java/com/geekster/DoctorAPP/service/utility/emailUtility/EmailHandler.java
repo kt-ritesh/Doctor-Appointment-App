@@ -7,8 +7,8 @@ import java.util.Properties;
 
 public class EmailHandler {
 
-    private static final String EMAIL_USERNAME ="mainakgh1@gmail.com";
-    private static final String EMAIL_PASSWORD ="iyyjxbrjqvchtdhv";
+    private static final String EMAIL_USERNAME ="ritesh123kumar081@gmail.com";
+    private static final String EMAIL_PASSWORD ="tgswasqarjpmrhmb";
 
 
     public static void sendEmail(String toEmail, String subject, String body) throws MessagingException {
